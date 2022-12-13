@@ -1,5 +1,5 @@
 # ML Challenge COVID-19
-Dataset and challenge provided by Kaggle, my effort at solving
+Dataset and challenge provided by Kaggle, my effort at solving. Dataset available at: https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge?resource=download
 
 Uses k-means clustering to group articles by similar topics. Over 20GB of data groupped comprehensively. 
 
