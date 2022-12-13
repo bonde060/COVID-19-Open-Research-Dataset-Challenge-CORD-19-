@@ -12,4 +12,4 @@ Uses two attempts to create features:
 Finished clusters presented in interactive plot that can be searched. 
 
 
-![alt text]([https://github.com/bonde060/interface-app-project/blob/main/tSNE_final_clusters.png](https://github.com/bonde060/ML-Challenge-COVID-19/blob/main/tSNE_final_clusters.png)?raw=true)
+![alt text](https://github.com/bonde060/ML-Challenge-COVID-19/blob/main/tSNE_final_clusters.png)?raw=true)
