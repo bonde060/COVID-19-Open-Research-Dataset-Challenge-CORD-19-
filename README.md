@@ -10,3 +10,5 @@ Uses two attempts to create features:
 - tf-idf vectorizing
 
 Finished clusters presented in interactive plot that can be searched. 
+
+![alt text](https://github.com/bonde060/interface-app-project/blob/main/tSNE_final_clusters.png?raw=true)
